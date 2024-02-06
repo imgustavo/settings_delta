@@ -1,0 +1,750 @@
+{
+	"version": 1,
+	"deltaHotkeys": {
+		"FwHP": {
+			"t": "hk-feed",
+			"m": "",
+			"k": ""
+		},
+		"2OcS": {
+			"t": "hk-macroFeed",
+			"m": "",
+			"k": "W"
+		},
+		"Cv12": {
+			"t": "hk-split",
+			"m": "",
+			"k": "SPACE"
+		},
+		"4NOV": {
+			"t": "hk-doubleSplit",
+			"m": "",
+			"k": "A"
+		},
+		"LcSa": {
+			"t": "hk-popSplit",
+			"m": "",
+			"k": ""
+		},
+		"VnhB": {
+			"t": "hk-tripleSplit",
+			"m": "",
+			"k": ""
+		},
+		"qdCt": {
+			"t": "hk-split16",
+			"m": "",
+			"k": "SHIFT"
+		},
+		"aNs8": {
+			"t": "hk-switchPlayer",
+			"m": "RIGHT MOUSE",
+			"k": "TAB"
+		},
+		"6Hks": {
+			"t": "hk-quickResp",
+			"m": "",
+			"k": "TILDE"
+		},
+		"RkFK": {
+			"t": "hk-autoResp",
+			"m": "",
+			"k": ""
+		},
+		"ql1x": {
+			"t": "hk-pause",
+			"m": "",
+			"k": ""
+		},
+		"Q2pI": {
+			"t": "hk-dance",
+			"m": "",
+			"k": ""
+		},
+		"GiHZ": {
+			"t": "hk-wave",
+			"m": "",
+			"k": ""
+		},
+		"kPRF": {
+			"t": "hk-showMiniMap",
+			"m": "",
+			"k": ""
+		},
+		"w7t6": {
+			"t": "hk-hideChat",
+			"m": "",
+			"k": "C"
+		},
+		"7RFr": {
+			"t": "hk-clearChat",
+			"m": "",
+			"k": ""
+		},
+		"cm19": {
+			"t": "hk-chatMessage",
+			"m": "",
+			"k": "ENTER"
+		},
+		"eX8R": {
+			"t": "hk-showHUD",
+			"m": "",
+			"k": ""
+		},
+		"D7S2": {
+			"t": "hk-showLb",
+			"m": "",
+			"k": ""
+		},
+		"DkFM": {
+			"t": "hk-copyLb",
+			"m": "",
+			"k": "L"
+		},
+		"YuvF": {
+			"t": "hk-showTop5",
+			"m": "",
+			"k": ""
+		},
+		"mmuF": {
+			"t": "hk-customMapTexture",
+			"m": "",
+			"k": ""
+		},
+		"Sagu": {
+			"t": "hk-undefined",
+			"m": "",
+			"k": ""
+		},
+		"PFWJ": {
+			"t": "hk-switchCamera",
+			"m": "",
+			"k": ""
+		},
+		"dJTj": {
+			"t": "hk-switchMarker",
+			"m": "",
+			"k": ""
+		},
+		"RQPQ": {
+			"t": "hk-switchMergeIndicator",
+			"m": "",
+			"k": ""
+		},
+		"9O3B": {
+			"t": "hk-showSplitRange",
+			"m": "",
+			"k": ""
+		},
+		"1nCk": {
+			"t": "hk-showSplitInd",
+			"m": "",
+			"k": ""
+		},
+		"O4H5": {
+			"t": "hk-showTeammatesInd",
+			"m": "",
+			"k": ""
+		},
+		"7wxf": {
+			"t": "hk-showOppColors",
+			"m": "",
+			"k": ""
+		},
+		"FBFT": {
+			"t": "hk-toggleSkins",
+			"m": "",
+			"k": ""
+		},
+		"P6TV": {
+			"t": "hk-transparentSkins",
+			"m": "",
+			"k": ""
+		},
+		"Gdul": {
+			"t": "hk-showSkins",
+			"m": "",
+			"k": "S"
+		},
+		"agV8": {
+			"t": "hk-toggleCells",
+			"m": "",
+			"k": ""
+		},
+		"OS60": {
+			"t": "hk-showFood",
+			"m": "",
+			"k": "X"
+		},
+		"GKNa": {
+			"t": "hk-showGrid",
+			"m": "",
+			"k": ""
+		},
+		"DSoB": {
+			"t": "hk-toggleAutoZoom",
+			"m": "",
+			"k": ""
+		},
+		"JUbU": {
+			"t": "hk-resetZoom",
+			"m": "",
+			"k": ""
+		},
+		"HEzh": {
+			"t": "hk-showBgSectors",
+			"m": "",
+			"k": ""
+		},
+		"MqAJ": {
+			"t": "hk-showNames",
+			"m": "",
+			"k": "N"
+		},
+		"RyP5": {
+			"t": "hk-hideTeammatesNames",
+			"m": "",
+			"k": ""
+		},
+		"3Z12": {
+			"t": "hk-showMass",
+			"m": "",
+			"k": ""
+		},
+		"gCXM": {
+			"t": "hk-zoom1",
+			"m": "",
+			"k": ""
+		},
+		"w9Pa": {
+			"t": "hk-zoom2",
+			"m": "",
+			"k": ""
+		},
+		"fDZK": {
+			"t": "hk-zoom3",
+			"m": "",
+			"k": ""
+		},
+		"NYW3": {
+			"t": "hk-zoom4",
+			"m": "",
+			"k": ""
+		},
+		"XFNL": {
+			"t": "hk-zoom5",
+			"m": "",
+			"k": ""
+		},
+		"c0Vq": {
+			"t": "hk-bots-split",
+			"m": "",
+			"k": ""
+		},
+		"QPtn": {
+			"t": "hk-bots-split-x2",
+			"m": "",
+			"k": ""
+		},
+		"ZyuF": {
+			"t": "hk-bots-split-x3",
+			"m": "",
+			"k": ""
+		},
+		"FR1n": {
+			"t": "hk-bots-split-x4",
+			"m": "",
+			"k": ""
+		},
+		"ZzgB": {
+			"t": "hk-bots-split-x5",
+			"m": "",
+			"k": ""
+		},
+		"G1Gy": {
+			"t": "hk-bots-macroFeed",
+			"m": "",
+			"k": ""
+		},
+		"Jv9o": {
+			"t": "hk-bots-ai",
+			"m": "",
+			"k": ""
+		},
+		"qw1X": {
+			"t": "comm",
+			"m": "",
+			"k": "1",
+			"data": "Feed me!"
+		},
+		"aam4": {
+			"t": "comm",
+			"m": "",
+			"k": "2",
+			"data": "Split into me!"
+		},
+		"kH7H": {
+			"t": "comm",
+			"m": "",
+			"k": "3",
+			"data": "Need backup at %currentSector%!"
+		},
+		"1E8W": {
+			"t": "comm",
+			"m": "",
+			"k": "4",
+			"data": "Enemy spotted at %currentSector%!"
+		},
+		"WaAz": {
+			"t": "comm",
+			"m": "",
+			"k": "5",
+			"data": "Need a teammate!"
+		},
+		"uaJE": {
+			"t": "comm",
+			"m": "",
+			"k": "6",
+			"data": "Tank the virus!"
+		},
+		"kMhM": {
+			"t": "comm",
+			"m": "",
+			"k": "7",
+			"data": "Eat the virus!"
+		},
+		"H0G6": {
+			"t": "comm",
+			"m": "",
+			"k": "8",
+			"data": "Let's bait!"
+		},
+		"Ayeb": {
+			"t": "comm",
+			"m": "",
+			"k": "9",
+			"data": "Fake tricksplit!"
+		},
+		"qQhB": {
+			"t": "comm",
+			"m": "",
+			"k": "0",
+			"data": "Fuck!"
+		},
+		"SrhC": {
+			"t": "comm",
+			"m": "MIDDLE MOUSE",
+			"k": "",
+			"data": "Tricksplit!"
+		},
+		"m6SB": {
+			"t": "comm",
+			"m": "",
+			"k": "LEFT",
+			"data": "Left!"
+		},
+		"zaUA": {
+			"t": "comm",
+			"m": "",
+			"k": "UP",
+			"data": "Up!"
+		},
+		"s0Oc": {
+			"t": "comm",
+			"m": "",
+			"k": "RIGHT",
+			"data": "Right!"
+		},
+		"A2RQ": {
+			"t": "comm",
+			"m": "",
+			"k": "DOWN",
+			"data": "Bottom!"
+		}
+	},
+	"ogarioPlayerProfiles": [
+		{
+			"nick": "MOUSTACHE DOG",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/mySSb3i.png",
+			"color": "#3633a5",
+			"id": "188eaad2-43e4-4c87-b905-b5bf2e5fb343"
+		},
+		{
+			"nick": "",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/JHKBdcp.png",
+			"color": "#3633A5",
+			"id": "a427c548-c95d-4c68-85f4-44e25cb07fbf"
+		},
+		{
+			"nick": "TROLL MASTER",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/vHxzJAR.jpg",
+			"color": "#3633a5",
+			"id": "3ff9bf31-d1e9-4107-a530-5c3fe0b9ee24"
+		},
+		{
+			"nick": "Spare Me ☘️",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/pFmHWRk.png",
+			"color": "#3633a5",
+			"id": "9241e273-1025-423d-a2c7-f6fcededeff1"
+		},
+		{
+			"nick": "MOUSTACHE DOG",
+			"clanTag": "wwwww2",
+			"skinURL": "https://i.imgur.com/FwO4ogw.jpg",
+			"color": "#3633A5",
+			"id": "73330deb-edf7-49b3-9868-b4bae9739d8c"
+		},
+		{
+			"nick": " ",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/K0BJ3QF.png",
+			"color": "#3633A5",
+			"id": "b6690734-6535-49fd-a7c5-839279731a81"
+		},
+		{
+			"nick": "ᅠᅠᅠᅠᅠᅠᅠ 𝙂ustav⛧",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/WYvefFH.jpg",
+			"color": "#3633a5",
+			"id": "8814e6cf-3f05-4a49-a668-2e1dcda436c4"
+		},
+		{
+			"nick": "⚰️ISLAM= CANCER💀",
+			"clanTag": "13",
+			"skinURL": "https://i.imgur.com/U6zdZvs.png",
+			"color": "#3633A5",
+			"id": "97f9a4a1-7133-4398-94e9-92ba771d6e8d"
+		},
+		{
+			"nick": "🗽🔫✨𝐱𝕏𝐱✨🔫 🗽",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/uMh8aG1.png",
+			"color": "#3633A5",
+			"id": "b3f93f72-6f5b-4a4c-b2a0-5c0d3a918a70"
+		},
+		{
+			"nick": "TINA  ",
+			"clanTag": "SS",
+			"skinURL": "https://i.imgur.com/MSEUTmj.jpg",
+			"color": "#FF00EF",
+			"id": "db0b9d40-7fc3-45ab-9929-97aa766dc308"
+		},
+		{
+			"nick": "EnocanScking99",
+			"clanTag": "SSSSSSS",
+			"skinURL": "https://i.imgur.com/PMkJZI4.jpg",
+			"color": "#01d9cc",
+			"id": "48a815f7-3c72-43a6-ac7f-dd427a3109e2"
+		},
+		{
+			"nick": "ᅠᅠᅠᅠᅠᅠᅠ 𝑮𝒖𝒔𝒕𝒂𝒗⛧",
+			"clanTag": "885",
+			"skinURL": "https://i.imgur.com/K0BJ3QF.png",
+			"color": "#01d9cc",
+			"id": "d2872f25-3edb-425e-9c75-94d9aecd0b0a"
+		},
+		{
+			"nick": "ᅠᅠᅠᅠᅠᅠᅠ 𝑮𝒖𝒔𝒕𝒂𝒗⛧",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/5wM5TM0.png",
+			"color": "#01d9cc",
+			"id": "70c34945-e121-40c5-a982-be65219ebf17"
+		},
+		{
+			"nick": "w",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/86ZQRaK.png",
+			"color": "#3633A5",
+			"id": "69c61c01-d479-489c-8489-8f7cc172cfe2"
+		},
+		{
+			"nick": "ᅠᅠᅠᅠᅠᅠᅠ 𝙂ustav⛧",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/Yz8AJOh.jpg",
+			"color": "#3633A5",
+			"id": "790a2157-a3e0-429f-8ce8-7ce3a8c4656a"
+		},
+		{
+			"nick": "ᅠᅠᅠᅠᅠᅠᅠ 𝑮𝒖𝒔𝒕𝒂𝒗⛧",
+			"clanTag": "3",
+			"skinURL": "https://i.imgur.com/U1IcesG.png",
+			"color": "#3633A5",
+			"id": "d5ed4f3b-5ef1-48dc-83c7-db5adca7c5bc"
+		},
+		{
+			"nick": "ALL DAY HERE?",
+			"clanTag": "soso",
+			"skinURL": "https://i.imgur.com/B4uL7N1.png",
+			"color": "#3633A5",
+			"id": "e4017dc1-db5d-43cd-9e0a-88c872624d67"
+		},
+		{
+			"nick": "1",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/13E1IOo.png",
+			"color": "#3633A5",
+			"id": "0b15eab3-0f14-49d8-b64b-b5b39a0ab1ae"
+		},
+		{
+			"nick": "x",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/R1BIiwF.png",
+			"color": "#3633A5",
+			"id": "fe41a0ed-48a0-429b-b8ed-7f513bfc6c77"
+		},
+		{
+			"nick": "妖夢 ようむ 2",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/sOiL1DK.png",
+			"color": "#3633A5",
+			"id": "f6b93af1-87af-4a71-abde-57e8fad32730"
+		},
+		{
+			"nick": "TINA　　　　　　　 💮",
+			"clanTag": "",
+			"skinURL": "https://i.imgur.com/hh7KGwZ.jpg",
+			"color": "#3633A5",
+			"id": "042cea29-6b24-43df-be6e-0083c2ba12ad"
+		},
+		{
+			"nick": "愛💋anna💗b1gd4dy∞",
+			"clanTag": "SSSSSSSSSS",
+			"skinURL": "https://i.imgur.com/uMh8aG1.png",
+			"color": "#3633A5",
+			"id": "6b19136f-fe79-4087-8a21-86d16713ff56"
+		}
+	],
+	"settings": {
+		"language": "en",
+		"animation": 100,
+		"autoZoom": false,
+		"centerWeightCamera": false,
+		"cameraDelay": 0,
+		"zoomSpeedValue": 0.9,
+		"zoomSmoothness": 10,
+		"autoResp": false,
+		"macroFeeding": 80,
+		"mbRings": true,
+		"mbCenterCamera": true,
+		"mbSkipCameraScroll": false,
+		"mbInactiveKeepMoving": false,
+		"mbSwitchPlayerAfterDeath": true,
+		"renderer": 0,
+		"antialiasing": 1,
+		"canvasScale": 1,
+		"jellyPhysics": false,
+		"debug": false,
+		"oppColors": false,
+		"oppRings": false,
+		"virColors": false,
+		"splitRange": false,
+		"doubleSplitRange": false,
+		"tripleSplitRange": false,
+		"mbMultiSplitRange": false,
+		"virusesRange": false,
+		"cursorTracking": true,
+		"mbMultiCursorTracking": false,
+		"teammatesInd": true,
+		"mergeIndicator": false,
+		"showGhostCells": false,
+		"ghostCellsNames": false,
+		"spawnWaveEffect": true,
+		"vanillaSkins": false,
+		"customSkins": true,
+		"customGifSkins": false,
+		"cellStroke": false,
+		"cellStrokePlayer": false,
+		"myTransparentSkin": false,
+		"textScaleMode": 1,
+		"showNames": true,
+		"namesStroke2": 0,
+		"hideMyName": false,
+		"hideTeammatesNames": false,
+		"autoHideNames": false,
+		"showMass": true,
+		"massStroke2": 1,
+		"shortMass": true,
+		"hideMyMass": false,
+		"hideEnemiesMass": false,
+		"autoHideMass": true,
+		"massUpdateInterval": 500,
+		"showFood": false,
+		"rainbowFood": false,
+		"autoHideFood": false,
+		"autoHideFoodOnZoom": true,
+		"virMassType": 2,
+		"spikedViruses": false,
+		"showGrid": false,
+		"showBgSectors": false,
+		"customBgSectorsSymbol": "",
+		"showMapBorders": true,
+		"showMiniMap": true,
+		"showMiniMapSectors": true,
+		"showMiniMapGrid": false,
+		"showMiniMapGhostCells": true,
+		"showMiniMapGuides": true,
+		"showExtraMiniMapGuides": false,
+		"oneColoredTeammates": true,
+		"showTime": true,
+		"timeHudTemplate": "%d.%m.%Y, %H:%i:%s",
+		"showTop5": true,
+		"teamboardLength": 10,
+		"showLbSectors": true,
+		"showLbData": true,
+		"showLbTotal": true,
+		"showLbBots": true,
+		"leaderboardLength": 30,
+		"lbRightAlign": true,
+		"normalLb": true,
+		"disableChat": false,
+		"chatEmoticons": true,
+		"showChatImages": false,
+		"showChatVideos": false,
+		"showChatBox": false,
+		"showMessageSenderId": false,
+		"showStats": true,
+		"statsAtCenter": false,
+		"showStatsMass": true,
+		"showStatsScore": true,
+		"showStatsSTE": false,
+		"showStatsN16": true,
+		"showStatsFPS": true,
+		"showStatsPING": true,
+		"showStatsPPS": true,
+		"menuSounds": true,
+		"chatSounds": false,
+		"messageSound_": "",
+		"commandSound_": "https://legendmod.ml/sounds/notification_02.mp3",
+		"virusEatSound": false,
+		"virusFeedSound": false,
+		"virusPopSound": false,
+		"x16Sound": false,
+		"non16Sound": false,
+		"showMultiProfile": false,
+		"touchControls": false,
+		"hideUserForms": false,
+		"autoCollectCoins": true,
+		"autoBrewingPotions": true,
+		"autoNotice": true
+	},
+	"ogarioThemeSettings": {
+		"bgColor": "#000000ff",
+		"bordersColor": "#d8d8e1ff",
+		"gridColor": "#00243eff",
+		"sectorsColor": "#00243eff",
+		"strokeScale": 1,
+		"namesColor": "#ffffffff",
+		"namesStrokeColor": "#000000ff",
+		"massColor": "#ffffffff",
+		"massStrokeColor": "#000000ff",
+		"virusColor": "#002f5288",
+		"virusStrokeColor": "#979d9dff",
+		"virusRangeColor": "#666666ff",
+		"mothercellColor": "#002f52ff",
+		"mothercellStrokeColor": "#00b9e8ff",
+		"mboxActiveCellStroke": "#ff0000ff",
+		"mboxUnactiveCellStroke": "#ffffffff",
+		"mergeIndicatorColor": "#00ff29ff",
+		"foodColor": "#a7a7a7ff",
+		"foodSize": 5,
+		"foodGlowSize": 0,
+		"teammatesIndColor": "#ffffffff",
+		"cursorTrackingColor": "#ffffffff",
+		"splitRangeColor": "#ffffffff",
+		"safeAreaColor": "#ffffffff",
+		"dangerAreaColor": "#bf00aaff",
+		"ghostCellsColor": "#000000ff",
+		"bHSTEColor": "#4000ffff",
+		"sHSTEColor": "#0040ffff",
+		"bDSTEColor": "#8000ffff",
+		"sDSTEColor": "#005a63ff",
+		"bSTEColor": "#ff00ffff",
+		"sSTEColor": "#80ff00ff",
+		"bColor": "#ff0000ff",
+		"eColor": "#ffff00ff",
+		"sColor": "#00ffffff",
+		"nickfont": "normal normal 500 2500px/normal Ubuntu",
+		"massfont": "normal normal 500 2500px/normal Ubuntu",
+		"namesScale": 1,
+		"massScale": 3,
+		"virMassScale": 3,
+		"sectorsfont": "normal normal 500 2500px/normal Ubuntu",
+		"sectorsfontSize": 1200,
+		"sectorsWidth": 40,
+		"bordersWidth": 20,
+		"darkTheme": true,
+		"mbRingWidth": 20,
+		"cursorTrackingSize": 6,
+		"virusStrokeSize": 14,
+		"cellBrightness": 0,
+		"cellSaturation": 0,
+		"cellsAlpha": 0.89,
+		"skinsAlpha": 0.7,
+		"customMapTexture": "",
+		"customMapLogo": "https://i.imgur.com/mrbrulz.png",
+		"customBackground": "",
+		"menuOpacity": 0.82,
+		"menuBlur": 0,
+		"menuMainColor": "#d90115ff",
+		"btnPrimaryColor": "#2d3f58ff",
+		"btnPrimaryColorHover": "#ffffff99",
+		"menuBtnTextColor": "#ffffffff",
+		"menuPanelColor": "#000000ff",
+		"menuTextColor": "#ffffffff",
+		"menuPanelColor2": "#000000ff",
+		"tabsColor": "#ffffffff",
+		"menuPanelColor2active": "#002f52ff",
+		"menuTextColor2": "#8096a7ff",
+		"inputBg": "#15151547",
+		"menuFont2": "normal normal 500 2500px/normal Roboto",
+		"menuBg": "",
+		"hudBlur": 0,
+		"hudMainColor": "#e91414ff",
+		"hudColor": "#00000066",
+		"hudTextColor": "#ffffffff",
+		"statsHudColor": "#ffffffff",
+		"timeHudColor": "#01d9ccff",
+		"top5MassColor": "#c1bf2cff",
+		"lbMeColor": "#e91414ff",
+		"lbFriendColor": "#018cf6ff",
+		"hudFont": "normal normal 500 2500px/normal Ubuntu",
+		"hudScale": 1,
+		"hudTransparency": 1,
+		"messageColor": "#00000066",
+		"messageTextColor": "#ffffffff",
+		"messageTimeColor": "#018cf6ff",
+		"messageNickColor": "#01d9ccff",
+		"commandsColor": "#f5fd00ff",
+		"commandsTextColor": "#000000ff",
+		"commandsTimeColor": "#bf00aaff",
+		"commandsNickColor": "#000000ff",
+		"chatBoxColor": "#00000066",
+		"chatScale": 1,
+		"chatTextScale": 1,
+		"miniMapSectorsColor": "#ffffff88",
+		"miniMapNickColor": "#ffffffff",
+		"miniMapNickStrokeColor": "#000000ff",
+		"miniMapMyCellColor": "#ffffffff",
+		"miniMapMyCellStrokeColor": "#bf00aaff",
+		"miniMapTeammatesColor": "#01d9ccff",
+		"miniMapViewportColor": "#aeaeae15",
+		"miniMapGuidesColor": "#ff0000ff",
+		"miniMapGhostCellsColor": "#ffffff67",
+		"miniMapFont": "normal normal 500 2500px/normal Ubuntu",
+		"miniMapNickfont": "normal normal 500 2500px/normal Ubuntu",
+		"miniMapNickSize": 11,
+		"miniMapNickStrokeSize": 2,
+		"miniMapCanvasScale": 1,
+		"miniMapScale": 1,
+		"miniMapMyCellSize": 7.5,
+		"miniMapMyCellStrokeSize": 4,
+		"miniMapTeammatesSize": 5.5,
+		"sectorsX": 5,
+		"sectorsY": 5,
+		"customCursor": ""
+	}
+}
